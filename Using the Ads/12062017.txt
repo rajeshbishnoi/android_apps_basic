@@ -1,0 +1,50 @@
+chose goole admob activity 
+banner ads
+Go to coding part
+find viewby is 
+in resources go to values and then strings there is an id there
+
+
+
+
+In the admob site there are two options monetixe and campaign
+in campaign you give money
+go to yhe monetize 
+and select montixe a new app
+add your app manually
+
+fill in the app name 
+select the platfoem
+you will get the app id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16.6.2017
+
